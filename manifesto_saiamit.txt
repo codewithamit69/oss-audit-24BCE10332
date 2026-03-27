@@ -1,0 +1,4 @@
+Open Source Manifesto
+Date: Fri Mar 27 19:23:17 UTC 2026
+
+I use git daily. Freedom means everything to me. I want to build a software and share it with the world. Open source promotes collaboration and innovation.
